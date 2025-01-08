@@ -10,3 +10,12 @@ const Simple_Server_Client_Program = {
   "usage": "cd Simple_Server_Client_Program && ./run.sh"
 }
 ```
+# Project 2:
+```javascript
+const Simple_SMTP_Program = {
+  "description": "A basic SMTP (Simple Mail Transfer Protocol) server",
+  "initial_features": ["TCP/IP socket communication", "Server can handle multiple client connections sequentially"],
+  "added_features": ["Spam filter", "Check mailbox", "Basic scrapy authentication and auth's privilage"],
+  "usage": "cd Simple_SMTP_Program && ./run.sh"
+}
+```
