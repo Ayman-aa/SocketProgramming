@@ -19,3 +19,13 @@ const Simple_SMTP_Program = {
   "usage": "cd Simple_SMTP_Program && ./run.sh"
 }
 ```
+
+# Project 3:
+```javascript
+const Simple_HTTP_Server = {
+  "description": "A basic HTTP (HyperText Transfer Protocol) server",
+  "initial_features": ["TCP/IP socket communication", "Server can handle multiple client connections sequentially"],
+  "added_features": ["Non-blocking socket", "MIME type detection based on file extensions", "auto index"],
+  "usage": "cd Simple_HTTP_Server && ./run.sh"
+}
+```
